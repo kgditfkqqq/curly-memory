@@ -1,4 +1,0 @@
-﻿  Study_Operate.c
-F:\program\C\Study\Study_Operate\Study_Operate.c(119,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
-F:\program\C\Study\Study_Operate\Study_Operate.c(119,9): warning C4313: "printf": 格式字符串中的 "%d" 与类型为 "int *" 的参数 1 冲突
-  Study_Operate.vcxproj -> F:\program\C\Study\Study_Operate\x64\Debug\Study_Operate.exe
