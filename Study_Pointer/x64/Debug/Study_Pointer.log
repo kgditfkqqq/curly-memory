@@ -1,0 +1,4 @@
+﻿  Study_Pointer.c
+F:\program\C\Study\Study_Pointer\Study_Pointer.c(10,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+F:\program\C\Study\Study_Pointer\Study_Pointer.c(10,9): warning C4313: "printf": 格式字符串中的 "%p" 与类型为 "int" 的参数 1 冲突
+  Study_Pointer.vcxproj -> F:\program\C\Study\Study_Pointer\x64\Debug\Study_Pointer.exe
