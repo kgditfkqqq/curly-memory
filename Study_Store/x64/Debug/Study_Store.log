@@ -1,0 +1,4 @@
+﻿  Question.c
+F:\program\C\Study\Study_Store\Question.c(124,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+F:\program\C\Study\Study_Store\Question.c(124,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  Study_Store.vcxproj -> F:\program\C\Study\Study_Store\x64\Debug\Study_Store.exe
